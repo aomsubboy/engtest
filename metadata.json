@@ -1,0 +1,6 @@
+{
+  "name": "MUELT Prep App",
+  "description": "An application to help students prepare for the Mahidol University English Language Test (MUELT). Features Reading, Listening, and Flashcards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
